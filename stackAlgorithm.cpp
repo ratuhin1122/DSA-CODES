@@ -1,5 +1,5 @@
 
-// using vector to implement stack
+// using vector Stack Implementation
 
 
 #include <iostream>
